@@ -25,7 +25,7 @@ Users can filter data by month, product category, etc.
 
 > [cleaning python file](cleaning.py)
 
-> [clear data](clean_data.csv)
+> [clean data](clean_data.csv)
 
 > [Dashboard](task8dashboard.pdf)
 
